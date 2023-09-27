@@ -56,11 +56,11 @@
 
 ## Screenshot2 :
 
-![scr3](https://github.com/SumanBlswas/react_todo/assets/112753516/ae3696fb-c25a-4a60-bb3c-dae30c459413)
+![scr2](https://github.com/SumanBlswas/react_todo/assets/112753516/5e6c1617-75ae-49b8-aabd-9f21efd5bdbe)
 
 ## Screenshot3 :
 
-![scr2](https://github.com/SumanBlswas/react_todo/assets/112753516/5e6c1617-75ae-49b8-aabd-9f21efd5bdbe)
+![scr3](https://github.com/SumanBlswas/react_todo/assets/112753516/ae3696fb-c25a-4a60-bb3c-dae30c459413)
 
 
 
